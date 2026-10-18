@@ -1,0 +1,12 @@
+# Core LLM and Authentication
+google-genai>=0.1.0
+google-auth==2.49.0
+
+# Document Parsing
+pypdf>=4.0.0
+
+# Vector Database and Retrieval
+chromadb>=0.4.0
+
+# Environment Management
+python-dotenv>=1.0.0
